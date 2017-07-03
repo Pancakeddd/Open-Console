@@ -1,0 +1,5 @@
+C:\Users\nathanmoosh\documents\visual studio 2017\Projects\Console\Console\bin\Release\Console.exe.config
+C:\Users\nathanmoosh\documents\visual studio 2017\Projects\Console\Console\bin\Release\Console.exe
+C:\Users\nathanmoosh\documents\visual studio 2017\Projects\Console\Console\bin\Release\Console.pdb
+C:\Users\nathanmoosh\documents\visual studio 2017\Projects\Console\Console\obj\Release\Console.exe
+C:\Users\nathanmoosh\documents\visual studio 2017\Projects\Console\Console\obj\Release\Console.pdb
